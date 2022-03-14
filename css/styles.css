@@ -11433,3 +11433,13 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+.works ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.works li {
+    width: 32%;
+}
