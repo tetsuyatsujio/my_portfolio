@@ -11438,8 +11438,10 @@ section.resume-section .resume-section-content {
 .works ul {
     display: flex;
     justify-content: space-between;
+    list-style: none;
 }
 
 .works li {
-    width: 32%;
+    width: 15%;
+    height:12%;
 }
