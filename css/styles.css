@@ -11449,5 +11449,7 @@ section.resume-section .resume-section-content {
     width: 100%;
     height:100%;
     margin-bottom:10px;
+    border-radius: 30px;
+    border: 1px solid black;
 }
 
